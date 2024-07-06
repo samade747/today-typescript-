@@ -4,8 +4,8 @@ import { divide } from "./ind.js"
 
 console.log(`Population of pakistan is ${population}`)
 console.log(`Population of India is ${popopulation}`)
-console.log(`Population of India is ${multiply(5, 5)}`)
-console.log(`Population of India is ${divide(2005, 5)}`)
+console.log(`multiply of India is ${multiply(5, 5)}`)
+console.log(`divide of India is ${divide(2005, 5)}`)
 
 
 
